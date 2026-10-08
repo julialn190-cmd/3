@@ -1,0 +1,9 @@
+{
+  "name": "sculpture-3d-v13",
+  "private": true,
+  "type": "module",
+  "dependencies": {
+    "replicate": "^1.0.0",
+    "sharp": "^0.33.5"
+  }
+}
